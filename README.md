@@ -1,4 +1,4 @@
-# SOCIAL MEDIA AND DEEP NEURAL NETWORK FOR NATURAL DISATER MANAGEMENT
+# SOCIAL MEDIA AND DEEP NEURAL NETWORK FOR NATURAL DISASTER MANAGEMENT
 
 The use of social media data and crowdsourcing for emergencies has emerged a few years ago, when social media started becoming a major channel to disseminate and share information. As an example, during the tsunami in the Philippines in 2012, 558126 tweets were produced in 8 different languages in the course of the first seven hours following the crises. Similarly, 20000 tweets/day were registered midst the 2012 Sandy storm in New York, and 5000 tweets/second were reported during the 2011 earthquake in Virginia (US). It has, therefore great potential to play a significant role in the future social media analysis in noisy crises situations.
 
